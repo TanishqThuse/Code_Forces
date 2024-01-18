@@ -31,3 +31,7 @@ Link for problem : https://codeforces.com/contest/49/my
 
 Problem 6 : Triangular no.
 https://codeforces.com/problemset/problem/47/A
+
+Problem 7 : Translator-A32
+https://codeforces.com/problemset/problem/41/A
+
