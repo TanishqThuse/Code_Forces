@@ -28,3 +28,6 @@ AND CREATED 7 DIFFERENT FILES OR BRANCHES OF A SINGLE PROGRAM
 But overall a great expericence to solve this question and I realised how 
 intense debugging can get!
 Link for problem : https://codeforces.com/contest/49/my
+
+Problem 6 : Triangular no.
+https://codeforces.com/problemset/problem/47/A
