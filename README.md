@@ -19,3 +19,12 @@ https://codeforces.com/problemset/problem/61/A
 
 Problem 4 : Domino_Pilling
 https://codeforces.com/problemset/problem/50/A
+
+Problem 5 : A. Sleuth
+
+Ok, so this problem was the one in which i took most attempts to solve.
+Like I have uploaded 19 different files on Code_forces4
+AND CREATED 7 DIFFERENT FILES OR BRANCHES OF A SINGLE PROGRAM
+But overall a great expericence to solve this question and I realised how 
+intense debugging can get!
+Link for problem : https://codeforces.com/contest/49/my
