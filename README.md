@@ -35,3 +35,8 @@ https://codeforces.com/problemset/problem/47/A
 Problem 7 : Translator-A32
 https://codeforces.com/problemset/problem/41/A
 
+19 Jan 2024 :
+
+Problem 8 : Borse Code : 
+https://codeforces.com/contest/32/problem/B
+
