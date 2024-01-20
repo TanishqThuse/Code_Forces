@@ -44,3 +44,6 @@ https://codeforces.com/contest/32/problem/B
 
 Problem 9 : Die_Roll_37A Codeforces
 https://codeforces.com/problemset/problem/9/A
+
+Problem 10 : Watermelon
+https://codeforces.com/problemset/problem/4/A
