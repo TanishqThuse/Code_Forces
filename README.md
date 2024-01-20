@@ -40,3 +40,7 @@ https://codeforces.com/problemset/problem/41/A
 Problem 8 : Borse Code : 
 https://codeforces.com/contest/32/problem/B
 
+20 Jan 2024 :
+
+Problem 9 : Die_Roll_37A Codeforces
+https://codeforces.com/problemset/problem/9/A
