@@ -55,3 +55,10 @@ https://codeforces.com/contest/764/problem/A
 Holiday of Equality
 
 Probelm 12 : https://codeforces.com/submissions/TanishqThuse
+
+22 Jan 2024 Probelm
+Probelm 13 : Receipt 
+
+https://codeforces.com/problemset/problem/746/A
+
+
