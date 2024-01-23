@@ -61,4 +61,7 @@ Probelm 13 : Receipt
 
 https://codeforces.com/problemset/problem/746/A
 
+23 Jan 2024 :
+Anthon and Danik :
 
+https://codeforces.com/problemset/problem/734/A
