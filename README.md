@@ -62,6 +62,16 @@ Probelm 13 : Receipt
 https://codeforces.com/problemset/problem/746/A
 
 23 Jan 2024 :
-Anthon and Danik :
+
+Problem 14 -Anthon and Danik :
 
 https://codeforces.com/problemset/problem/734/A
+
+26 jan 2024 :
+I did submit a two files on 24, 25 Jan but forgot to add on GitHub
+
+Problem 15 - Opponents
+https://codeforces.com/problemset/problem/688/A
+
+
+
