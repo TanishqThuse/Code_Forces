@@ -73,5 +73,10 @@ I did submit a two files on 24, 25 Jan but forgot to add on GitHub
 Problem 15 - Opponents
 https://codeforces.com/problemset/problem/688/A
 
+27 Jan 2024 :
+
+Problem 16 -  Mishka and Game
+https://codeforces.com/problemset/problem/703/A
+
 
 
